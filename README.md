@@ -1,6 +1,6 @@
 # ETL-Project
 
-## Restaurant Info and Reviews
+## Restaurants - Information and Reviews
 
 We’ve identified our datasets from Yelp and Google APIs as our data sources for this project.  
 

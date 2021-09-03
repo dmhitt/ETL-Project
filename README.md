@@ -16,7 +16,7 @@ The goal is to perform an accurate and efficient Extract, Transfer, and Load (ET
 * Python,  Jupyter Notebook, MongoDB. 
 
 ### Extract
-* •    Retrieved the data sets from Yelp Fusion and Google API websites and submitted multiple API queries.  The scope of the data extraction was based on the inputted parameters in the API calls.   
+*   Retrieved the data sets from Yelp Fusion and Google API websites and submitted multiple API queries.  The scope of the data extraction was based on the inputted parameters in the API calls.   
 
 ---
 #### Jupyter Notebook 

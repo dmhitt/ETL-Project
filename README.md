@@ -9,7 +9,7 @@ We’ve identified our datasets from Yelp and Google APIs as our data sources fo
 The goal is to perform an accurate and efficient Extract, Transfer, and Load (ETL) process before moving to a production database.    
 
 
-## Data
+### Data
 * Yelp and GOOGLE API - restaurant information data
 
 ### Tools

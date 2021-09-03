@@ -19,9 +19,15 @@ The goal is to perform an accurate and efficient Extract, Transfer, and Load (ET
 * •    Retrieved the data sets from Yelp Fusion and Google API websites and submitted multiple API queries.  The scope of the data extraction was based on the inputted parameters in the API calls.   
 
 ---
+#### Jupyter Notebook 
+
 <img src="https://github.com/dmhitt/ETL-project/blob/main/static/Image1.png">
 <img src="https://github.com/dmhitt/ETL-project/blob/main/static/Image2.png">
 <img src="https://github.com/dmhitt/ETL-project/blob/main/static/Image3.png">
 <img src="https://github.com/dmhitt/ETL-project/blob/main/static/Image4.png">
+
+---
+#### MongoDB
+
 <img src="https://github.com/dmhitt/ETL-project/blob/main/static/Image5.png">
 
